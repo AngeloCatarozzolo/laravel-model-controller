@@ -1,5 +1,5 @@
 <?php
-
+use App\Http\Guest\PageController;
 use Illuminate\Support\Facades\Route;
 
 /*
